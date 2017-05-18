@@ -1,0 +1,2 @@
+-- cPanel mysql backup
+GRANT USAGE ON *.* TO 'alphamensedge'@'localhost' IDENTIFIED BY PASSWORD '*49B394680485045915488B9460C33DFAF97B3055';

@@ -1,0 +1,57 @@
+Return-path: <>
+Envelope-to: alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net
+Delivery-date: Mon, 27 Apr 2015 07:50:27 -0700
+Received: from mailnull by a2plcpnl0007.prod.iad2.secureserver.net with local (Exim 4.85)
+	id 1YmkMd-0005lF-88
+	for alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net; Mon, 27 Apr 2015 07:50:27 -0700
+X-Failed-Recipients: kelleyscache@kelleyscache.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0007.prod.iad2.secureserver.net>
+To: alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YmkMd-0005lF-88@a2plcpnl0007.prod.iad2.secureserver.net>
+Date: Mon, 27 Apr 2015 07:50:27 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  kelleyscache@kelleyscache.com
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]
+    SMTP error from remote mail server after end of data:
+    552 5.2.0 mkMdY64RfTAsk :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=PI3Fg6eC c=1 sm=1 tr=0 p=tRTRP1YQAAAA:8 a=YUeZrBnCwW9sUG3QgaYPKA==:117 a=TZb1taSUAAAA:8 a=eUnEA1zzZ8sA:10 a=HpvppQk1w8AA:10 a=Ckihrp4UZOEA:10 a=IhTeOjsf1yQA:10 a=e9J7MTPGsLIA:10 a=BDviEHFLAAAA:8 a=hWjV4ewRcPDVhxQc9VcA:9 a=BiYBplSjpPAA:10 a=pN8zv1HX4CsA:10 ::
+    100.00
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net>
+Received: from alphamensedge by a2plcpnl0007.prod.iad2.secureserver.net with local (Exim 4.85)
+	(envelope-from <alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net>)
+	id 1YmkMd-0005l7-4m
+	for kelleyscache@kelleyscache.com; Mon, 27 Apr 2015 07:50:27 -0700
+To: kelleyscache@kelleyscache.com
+Subject: Alpha Men's Edge
+X-PHP-Script: www.alphamensedge.com/contact.php for 178.137.85.199
+From: apowell5976@yahoo.ca
+Message-Id: <E1YmkMd-0005l7-4m@a2plcpnl0007.prod.iad2.secureserver.net>
+Date: Mon, 27 Apr 2015 07:50:27 -0700
+
+Name: Andrew
+Email: apowell5976@yahoo.ca
+
+ Message: Hello, 
+ 
+I'm Andrew, a marketing manager at Hum Traffic. I came across www.alphamensedge.com and it has potential to get a lot more visitors! I just wanted to tell you, in case you didn't already know... We cater to over 7,000 small and medium biz and website owners - many in your niche, all seeing a TON more readers and visitors to their many music, dating, real estate, sports, web hosting, travel/tourism, any niche blogs and websites. 
+ 
+We're network partners with the largest media banner networks - the same networks that serve traffic to hundreds of thousands of popular news, music, fashion and other websites you already use today. 
+ 
+Simply put, I think www.alphamensedge.com can get a lot more exposure from buying and driving traffic using http://humtraffic.com/traffic-plans.html the same way all of these other successful websites have been doing for so long! 
+ 
+If you want more traffic to www.alphamensedge.com in 2016 to really make something of it - pick a plan out at http://humtraffic.com/traffic-plans.html and watch the traffic flood in! 
+ 
+Here's to your success and quick website growth! 
+Andrew 
+Hum Traffic

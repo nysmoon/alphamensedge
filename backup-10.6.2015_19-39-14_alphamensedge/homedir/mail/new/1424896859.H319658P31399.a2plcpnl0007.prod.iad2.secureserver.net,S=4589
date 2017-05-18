@@ -1,0 +1,61 @@
+Return-path: <>
+Envelope-to: alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net
+Delivery-date: Wed, 25 Feb 2015 13:40:59 -0700
+Received: from mailnull by a2plcpnl0007.prod.iad2.secureserver.net with local (Exim 4.84)
+	id 1YQilP-0008AM-8r
+	for alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net; Wed, 25 Feb 2015 13:40:59 -0700
+X-Failed-Recipients: kelleyscache@kelleyscache.com
+Auto-Submitted: auto-replied
+From: Mail Delivery System <Mailer-Daemon@a2plcpnl0007.prod.iad2.secureserver.net>
+To: alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net
+Subject: Mail delivery failed: returning message to sender
+Message-Id: <E1YQilP-0008AM-8r@a2plcpnl0007.prod.iad2.secureserver.net>
+Date: Wed, 25 Feb 2015 13:40:59 -0700
+
+This message was created automatically by mail delivery software.
+
+A message that you sent could not be delivered to one or more of its
+recipients. This is a permanent error. The following address(es) failed:
+
+  kelleyscache@kelleyscache.com
+    SMTP error from remote mail server after end of data:
+    host a2nlsmtpcp-v01.shr.prod.iad2.secureserver.net [198.71.232.0]:
+    552 5.2.0 wkgz1p00625QtXq01 :: CPANEL :: Message rejected for spam or virus content ::
+    Please include this entire message when contacting support ::
+    v=2.1 cv=e4KISMZ/ c=1 sm=1 tr=0 p=uTPxlqXbAAAA:8 a=YUeZrBnCwW9sUG3QgaYPKA==:117 a=TZb1taSUAAAA:8 a=eUnEA1zzZ8sA:10 a=HpvppQk1w8AA:10 a=Ckihrp4UZOEA:10 a=IhTeOjsf1yQA:10 a=K57tCgj2AAAA:8 a=0HtSIViG9nkA:10 a=BDviEHFLAAAA:8 a=hEh3JUyyAAAA:8 a=jlskqcdY6ReiHCXxO0wA:9 a=mw3e-eFivTf5Nd0t:21 a=wIhiv5dTzGQo5U_X:21 a=ExpEYmWZaioA:10 a=lBgcMm0fN_AA:10 ::
+    100.00
+
+------ This is a copy of the message, including all the headers. ------
+
+Return-path: <alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net>
+Received: from alphamensedge by a2plcpnl0007.prod.iad2.secureserver.net with local (Exim 4.84)
+	(envelope-from <alphamensedge@a2plcpnl0007.prod.iad2.secureserver.net>)
+	id 1YQilP-0008AB-36
+	for kelleyscache@kelleyscache.com; Wed, 25 Feb 2015 13:40:59 -0700
+To: kelleyscache@kelleyscache.com
+Subject: Alpha Men's Edge
+X-PHP-Script: www.alphamensedge.com/contact.php for 178.137.85.199
+From: understoodyacht3c@rediffmail.com
+Message-Id: <E1YQilP-0008AB-36@a2plcpnl0007.prod.iad2.secureserver.net>
+Date: Wed, 25 Feb 2015 13:40:59 -0700
+
+Name: Devin
+Email: understoodyacht3c@rediffmail.com
+
+ Message: Hello, 
+ 
+My name is Devin Sorbert - I'm a media manager at Social Media Gurus. We're a 3 person full social media management company based out of Greater Grand Rapids, Michigan. We handle account creation and growth for small businesses - and our 3rd partner has spent 3 years setting up Facebook and Google Adwords campaigns for small businesses for local lead generation for a Grand Rapids media management company before coming to work with us. 
+ 
+I saw www.alphamensedge.com and want to know if you're interested in expanding your social media presence? Basically - more fans, likes and general engagement on your Facebook page? 
+ 
+It's really easy - we'd do a free 15 minute consultation over phone or Skype - where we'll fill out a simple questionnaire to figure out the specific social media needs for your business. I'll show you some references and current clients pages that have consented to being used as examples (pet shelters and such) - and explain why more fans and activity on your page will help your business. If during the consultation we learn that you sell commercially/are happy with 10 fans on your page/have no business use for social media presence - I won't sell you garbage. Chemical factories don't need Facebook pages (unless they'd like a corporate page) - and I won't argue with that. 
+ 
+Our prices start at $189 a month for complete management and assistance of your media profile. Our prices reflect the service quality - if you've had bad experiences buying fans for $20 on Fiverr that were deleted/had your account suspended - we can rectify that. We run small media campaigns throughout the month creating natural fan growth to your page - no automated accounts or likes, and no chance of any account issues. We also do not need any security information to promote your page - anyone who does probably uses a form of automation to grow your account. 
+ 
+Check out these monthly plans to get a full idea of everything we do for your page and then send me a reply for your consultation :) 
+http://socialmediagurus.net/ 
+ 
+If I can help you - reply back at emailsocialmediagurus@mail.com and we'll set up a good time for you to create a plan for www.alphamensedge.com. 
+ 
+Hope I can assist you, 
+Devin

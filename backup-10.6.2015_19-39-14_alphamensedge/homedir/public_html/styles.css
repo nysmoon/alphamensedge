@@ -1,0 +1,238 @@
+/*---------General/Main Styles----------*/
+body {
+  font-family: Arial, "Trebuchet MS", calibri, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  background: #1f4657 url('images/background.jpg') top left repeat-x;
+}
+a {
+  text-decoration: none;
+  font-family: "Trebuchet MS", sans-serif;
+  color: #4c4c4c;
+  padding: 0px;
+  margin: 0px;
+}
+a:hover {
+  text-decoration: underline;
+}
+footer {
+  display: block;
+  font-family: "Trebuchet MS", sans-serif;
+  font-size: 13px;
+  font-weight: 100;
+  text-align: center;
+  padding: 20px 0px 18px 0px;
+  margin: 0px;
+  color: #7b8d97;
+  overflow: hidden;
+  clear: both;
+  width: 100%;
+  height: 12px;
+  background: #476774 url('images/footer-background.jpg') top left repeat-x;
+}
+img {
+  border: none;
+  padding: 0px;
+  margin: 0px;
+}
+p {
+  line-height: 17.5px;
+  font-family: Arial, "Trebuchet MS", calibri, sans-serif;
+  font-size: 14px;
+  font-weight: 400px;
+  text-align: justify;
+  padding: 0;
+  margin: 0 0 20px 0;
+/*  color: #5a5a5a;*/
+  color: #5a5a5a;
+}
+h1 {
+
+  margin: 0 0 38px 0;
+  font-family: Vrinda, calibri, sans-serif;
+  color: #3d3d3d;
+  font-size: 20px;
+  font-weight: 100;
+}
+h2 {
+
+  margin: 0 0 10px 0;
+  font-family: Vrinda, calibri, sans-serif;
+  color: #3b3b3b;
+  font-size: 18px;
+  font-weight: 200;
+}
+td {
+  color: #5a5a5a;
+  font-family: "Trebuchet MS", calibri, sans-serif;
+  font-size: 14px;
+  font-weight: 400px;
+}
+* { margin: 0; padding: 0px; }
+/*  * { margin: 0; padding: 0px; }   */
+
+#wrapper {
+  width: 892px;
+  margin: auto;
+  position: relative;
+}
+b {
+  color: #393939;
+}
+ul {
+  margin: 10px 10px 20px 30px;
+  line-height: 18px;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+/*--------------header---------------*/
+img#header {
+  height: 285px;
+  width: 890px;
+  margin: 49px 0 18px 0;
+}
+/*-------------navigation-------------*/
+nav#main {
+  
+  padding: 7px 7px 0 7px;
+  margin: 0;
+  width: 876px;
+  height: 45px;
+  background: transparent url('images/nav-bg.jpg') top left no-repeat scroll;
+}
+a:hover#home {
+  opacity: .70;
+}
+a#home {
+  float: left;
+  display: block;
+  width: 133px;
+  height: 45px;
+  background: transparent url('images/home.jpg') top left scroll no-repeat;
+}
+a:hover#contact {
+  opacity: .70;
+}
+a#contact {
+  float: left;
+  width: 143px;
+  height: 45px;
+  display: block;
+  background: transparent url('images/contact.jpg') top left scroll no-repeat;
+}
+a:hover#faq {
+  opacity: .70;
+}
+a#faq {
+  float: left;
+  width: 115px;
+  height: 45px;
+  display: block;
+  background: transparent url('images/faqs.jpg') top left scroll no-repeat;
+}
+a:hover#product {
+  opacity: .70;
+}
+a#product {
+  float: left;
+  width: 293px;
+  height: 45px;
+  display: block;
+  background: transparent url('images/product-description.jpg') top left scroll no-repeat;
+}
+a:hover#order {
+  opacity: .70;
+}
+a#order{
+  float: left;
+  width: 190px;
+  height: 45px;
+  display: block;
+  background: transparent url('images/order-now.jpg') top left scroll no-repeat;
+}
+/*----------------content----------------*/
+#top-bg {
+  height: 38px;
+  width: 890px;
+  background: transparent url('images/top-bg.jpg') top left no-repeat scroll;
+}
+#content {
+  width: 890px;
+  padding: 0;
+  background: #ffffff url('images/content-bg.jpg') top left repeat-y scroll;
+}
+#content-wrapper {
+ margin: 0 32px 0 32px;
+ min-height: 400px;
+ padding: 0 15px 20px 15px;
+}
+#content-bottom {
+  width: 890px;
+  height: 18px;
+  background: transparent url('images/content-bottom.jpg') top left no-repeat scroll;
+  margin: 0 0 30px 0;
+}
+#carousel {
+  float: left;
+  margin: 0 32px 32px 0;
+  width: 311px;
+  height: 259px;
+  border: 6px solid #dddee0;
+}
+#clear {
+ height: .5px;
+ clear: both;
+}
+/*------------ Home ---------------*/
+#boost {
+
+  border: 6px solid #dddee0;
+  margin: 0 32px 32px 0;
+}
+a:hover#cta {
+ opacity: .75;
+}
+#list-border {
+  width: 557px;
+  height: 22px;
+  background: transparent url('images/list-border.jpg') top left no-repeat scroll;
+}
+ul#list {
+  line-height: 18px;
+  margin: 0 0 20px 50px;
+  font-size: 14px;
+  color: #5a5a5a;
+}
+/*------------ Other --------------*/
+#icons {
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  width: 49px;
+}
+.products {
+  float: right;
+  margin: 0 0 20px 0;
+  border: 6px solid #DDDEE0;
+}
+.pg {
+  margin: 0 22px 0 0;
+  float: left;
+  width: 520px;
+}
+.pp {
+  float: left;
+}
+#form {
+    border: 1px solid #C5C5C5;
+    width: 300px;
+}
+#submit {
+    background: url("images/send_message.gif") no-repeat scroll left top transparent;
+    border: 0 none;
+    height: 34px;
+    margin-bottom: 100px;
+    margin-top: 15px;
+    padding: 0;
+    width: 178px;
+}
